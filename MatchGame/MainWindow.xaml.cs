@@ -48,7 +48,7 @@ namespace MatchGame
 
         private void SetUpGame()
         {
-            List<string> animalEmoji = new List<string>(){ //8쌍의 이모지가 든 목록을 생성한다
+            List<string> animalEmoji = new List<string>(){ //8쌍의 이모지가 든 목록을 생성한다.
                 "🦑", "🦑",
                 "🐡", "🐡",
                 "🐘", "🐘",
